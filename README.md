@@ -2,6 +2,11 @@
 
 Este projeto contém scripts para espelhamento de dispositivos Android usando `scrcpy`.
 
+### Licença
+
+Este projeto é licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+
+
 ## Scripts Disponíveis
 
 - `connect_scrcpy.sh`: Script inicial para configurar e conectar um dispositivo Android.
