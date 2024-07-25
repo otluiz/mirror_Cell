@@ -6,6 +6,7 @@ Este projeto contém scripts para espelhamento de dispositivos Android usando `s
 
 - `connect_scrcpy.sh`: Script inicial para configurar e conectar um dispositivo Android.
 - `connect_scrcpy_v2.sh`: Versão aprimorada do script com detecção automática de IP.
+- `install_scrcpy.sh`: Script para instalar todas as dependências e compilar o scrcpy.
 
 ## Como Usar
 
@@ -23,6 +24,7 @@ Este projeto contém scripts para espelhamento de dispositivos Android usando `s
    git clone git@github.com:otluiz/mirror_Cell.git
    cd mirror_Cell
 
+## No seu computador
 2. Configure as variáveis de ambiente para o Android SDK:
    export ANDROID_HOME=~/Android/Sdk
    export PATH=$ANDROID_HOME/tools:$ANDROID_HOME/platform-tools:$PATH
